@@ -4,7 +4,7 @@
 
 项目目录结构如下：
 
-![](images\d1.PNG)
+![](images/d1.PNG)
 
 其中expirement_attr、expirement_er和expirement_re三个文件夹下分别是做评测过程中进行的一些相关实验，data文件夹下存放的评测数据。
 
@@ -16,7 +16,7 @@
 
 除了规则匹配外，还可以采用远程监督的方法，主要用于抽取研报中的实体，具体流程如下图所示：
 
-![](images\d2.PNG)
+![](images/d2.PNG)
 
 1.使用规则和外部工具抽取一部分实体
 
